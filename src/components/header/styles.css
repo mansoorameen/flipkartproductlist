@@ -1,0 +1,13 @@
+.Header {
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.menus {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,23 @@
+.Filters {
+    background-color: yellow;
+    width: 18rem;
+    float: left;
+}
+
+.head {
+    display: flex;
+}
+
+.input {
+    width: 5rem;
+    height: 1rem;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.to {
+    margin-top: 0px;
+}
