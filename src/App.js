@@ -10,9 +10,7 @@ import Images from './Images';
 
 function App() {
 
-  const sorthandler() => {
-    
-  }
+
   return (
     <div className="App">
       <Header />
@@ -21,7 +19,7 @@ function App() {
       <h2>Clothing And Accessories</h2><small>(Showing 1 – 40 products of 1,00,987 products)</small>
      </div>
      <div className="sort">
-       <p onClick={sorthandler}>Sort by</p>
+       <p>Sort by</p>
        <a>Popularity</a>
         <a>Price - Low to High</a>
         <a>Price - High to Low</a>
